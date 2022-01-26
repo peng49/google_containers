@@ -1,0 +1,6 @@
+services:
+  - docker
+
+# build docker image
+install:
+  - sh ./build.sh
